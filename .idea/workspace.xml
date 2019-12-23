@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="50d11aad-2d24-4aa6-84a1-88b9bf265bcd" name="Default Changelist" comment="" />
+    <list default="true" id="50d11aad-2d24-4aa6-84a1-88b9bf265bcd" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -63,7 +66,8 @@
       <workItem from="1576878146168" duration="4558000" />
       <workItem from="1576887255075" duration="48430000" />
       <workItem from="1577059687725" duration="10337000" />
-      <workItem from="1577072091674" duration="7018000" />
+      <workItem from="1577072091674" duration="8041000" />
+      <workItem from="1577088913558" duration="274000" />
     </task>
     <servers />
   </component>
@@ -79,10 +83,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="276" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1576884488875" />
-    <state x="661" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1577059707065">
+    <state x="661" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1577088914299">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="661" y="345" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1577059707065" />
+    <state x="661" y="345" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1577088914299" />
     <state x="616" y="242" key="run.anything.popup" timestamp="1576797938530">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
