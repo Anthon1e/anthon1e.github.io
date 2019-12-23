@@ -1,0 +1,199 @@
+.nav-style {
+    color: white;
+    font-family: "Courier New";
+    font-size: 1.6rem;
+    word-spacing: -7px;
+}
+
+.nav-item a:hover {
+    color: black !important;
+    cursor: pointer;
+}
+
+.style-1{
+    padding-top: 3%;
+    margin-left: 50px;
+}
+
+.font1 {
+    font-family: "Times New Roman";
+    font-size: 3.5rem;
+    color: dodgerblue;
+    font-weight: bold;
+}
+
+.font2 {
+    font-family: "Times New Roman";
+    font-size: 1.3rem;
+    color: dimgray;
+    font-weight: bold;
+}
+
+.font3 {
+    font-family: "Times New Roman";
+    font-size: 4.5rem;
+    color: dodgerblue;
+    font-weight: bold;
+}
+
+.font4 {
+    font-family: "Times New Roman";
+    font-size: 2rem;
+    color: dimgray;
+}
+
+.font5 {
+    font-family: "Times New Roman";
+    font-size: 1.3rem;
+    color: black;
+}
+
+.spacing {
+    justify-content: space-evenly;
+    padding: 10% 20%;
+}
+
+.video-container {
+    position: relative;
+    height: 0;
+}
+.video-container iframe {
+    position: absolute;
+    top: 0;
+    left: 10%;
+    width: 80%;
+    height: 300px;
+}
+
+.sectionAbout {
+    padding-top: 15%;
+    display: grid;
+    width: 100%;
+    height: 1000px;
+    grid-template-areas: "intro pic"
+                         "fact  pic"
+                         "fact  pic";
+    grid-template-columns: repeat(2, minmax(500px, 1fr));
+    grid-template-rows: repeat(2, minmax(50px, 0.3fr));
+}
+
+.intro{
+    grid-area: intro;
+}
+
+.pic{
+    grid-area: pic;
+}
+
+.fact{
+    grid-area: fact;
+}
+
+.sectionSkill {
+    padding-top: 12%;
+    display: grid;
+    width: 100%;
+    height: 1000px;
+    grid-template-areas: "sk-title      sk-title    sk-title"
+                         "soft-title    hard-title  other-title"
+                         "soft          hard        other";
+    grid-template-columns: 3fr 3fr 3fr;
+    grid-template-rows: 0.4fr 0.8fr 0.8fr;
+    grid-column-gap: 100px;
+}
+
+.sk-title{
+    grid-area: sk-title;
+}
+.lang-title{
+    grid-area: lang-title;
+}
+.lang{
+    grid-area: lang;
+}
+.hard-title{
+    grid-area: hard-title;
+}
+.hard{
+    grid-area: hard;
+}
+.other-title{
+    grid-area: other-title;
+}
+.other{
+    grid-area: other;
+}
+
+.sectionProjects{
+    padding-top: 7%;
+    display: grid;
+    width: 100%;
+    height: 2000px;
+    grid-template-areas: "p-title   p-title"
+                         "p1        imagep1"
+                         "p2        imagep2"
+                         "p3        imagep3"
+                         "p4        imagep4";
+    grid-template-columns: repeat(auto-fit, minmax(500px, 1fr));
+    grid-template-rows: 0.4fr 0.8fr 0.8fr 0.8fr;
+}
+
+.p-title{
+    grid-area: p-title;
+}
+.p1{
+    grid-area: p1;
+}
+.imagep1{
+    grid-area: imagep1;
+}
+.p2{
+    grid-area: p2;
+}
+.imagep2{
+    grid-area: imagep2;
+}
+.p3{
+    grid-area: p3;
+}
+.imagep3{
+    grid-area: imagep3;
+}
+.p4{
+    grid-area: p4;
+}
+.imagep4{
+    grid-area: imagep4;
+}
+
+.footer{
+    background-color: dimgray;
+    font-family: "Courier New";
+    font-size: 1.6rem;
+}
+
+body {
+    background-image: url("Image-Background.jpeg");
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+html {
+    scroll-behavior: smooth;
+    font-size: 14px;
+}
+
+nav {
+    display: flex;
+    justify-content: space-around;
+}
+
+@media (min-width: 780px) {
+    html {
+        font-size: 14px;
+    }
+}
+
+@media (min-width: 576px) { ... }
