@@ -3,6 +3,16 @@
   <component name="ChangeListManager">
     <list default="true" id="50d11aad-2d24-4aa6-84a1-88b9bf265bcd" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Image-Background.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Image-Facebook.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Image-Github.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Image-Linkedin.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Image-Project-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Image-Project-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Image-Project-4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Image1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Image3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -27,7 +37,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1VDiXiark2remaLZ4MRB3pAPx3r" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -68,6 +80,9 @@
       <workItem from="1577059687725" duration="10337000" />
       <workItem from="1577072091674" duration="8041000" />
       <workItem from="1577088913558" duration="274000" />
+      <workItem from="1578691737172" duration="8367000" />
+      <workItem from="1578713675071" duration="3922000" />
+      <workItem from="1578798245220" duration="64000" />
     </task>
     <servers />
   </component>
@@ -83,10 +98,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="276" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1576884488875" />
-    <state x="661" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1577088914299">
+    <state x="661" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1578691742452">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="661" y="345" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1577088914299" />
+    <state x="661" y="345" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1578691742452" />
     <state x="616" y="242" key="run.anything.popup" timestamp="1576797938530">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
