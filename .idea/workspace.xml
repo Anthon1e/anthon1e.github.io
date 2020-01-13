@@ -3,16 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="50d11aad-2d24-4aa6-84a1-88b9bf265bcd" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Image-Background.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Image-Facebook.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Image-Github.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Image-Linkedin.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Image-Project-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Image-Project-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Image-Project-4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Image1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Image3.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/Image-Background.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects.html" beforeDir="false" afterPath="$PROJECT_DIR$/projects.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/skills.html" beforeDir="false" afterPath="$PROJECT_DIR$/skills.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -83,6 +77,7 @@
       <workItem from="1578691737172" duration="8367000" />
       <workItem from="1578713675071" duration="3922000" />
       <workItem from="1578798245220" duration="64000" />
+      <workItem from="1578899534257" duration="5289000" />
     </task>
     <servers />
   </component>
@@ -106,9 +101,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="616" y="242" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1576797938530" />
-    <state x="623" y="239" width="672" height="678" key="search.everywhere.popup" timestamp="1577014928082">
+    <state x="623" y="239" width="672" height="678" key="search.everywhere.popup" timestamp="1578902493148">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="623" y="239" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1577014928082" />
+    <state x="623" y="239" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1578902493148" />
   </component>
 </project>

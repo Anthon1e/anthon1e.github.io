@@ -13,7 +13,7 @@
 .font1 {
     font-family: "Tahoma";
     font-size: 3.5rem;
-    color: dodgerblue;
+    color: steelblue;
     font-weight: bold;
 }
 
@@ -27,7 +27,7 @@
 .font3 {
     font-family: "Tahoma";
     font-size: 4.5rem;
-    color: dodgerblue;
+    color: steelblue;
     font-weight: bold;
 }
 
@@ -74,6 +74,7 @@
 
 .sectionAbout {
     padding-top: 10%;
+    padding-right: 2%;
     display: grid;
     width: 100%;
     height: 1000px;
@@ -161,14 +162,18 @@
     padding-top: 5%;
     display: grid;
     width: 100%;
-    height: 1800px;
+    height: 3300px;
     grid-template-areas: "p-title   p-title"
                          "p1        imagep1"
                          "p2        imagep2"
                          "p3        imagep3"
-                         "p4        imagep4";
+                         "p4        imagep4"
+                         "p5        imagep5"
+                         "p6        imagep6"
+                         "p7        imagep7"
+                         "p8        imagep8";
     grid-template-columns: repeat(auto-fit, minmax(500px, 1fr));
-    grid-template-rows: 0.8fr 2fr 2fr 2fr;
+    grid-template-rows: 0.8fr 2fr 2fr 2fr 2fr 2fr 2fr 2fr 2fr;
 }
 
 .p-title{
@@ -198,6 +203,30 @@
 .imagep4{
     grid-area: imagep4;
 }
+.p5{
+    grid-area: p5;
+}
+.imagep5{
+    grid-area: imagep5;
+}
+.p6{
+    grid-area: p6;
+}
+.imagep6{
+    grid-area: imagep6;
+}
+.p7{
+    grid-area: p7;
+}
+.imagep7{
+    grid-area: imagep7;
+}
+.p8{
+    grid-area: p8;
+}
+.imagep8{
+    grid-area: imagep8;
+}
 
 .footer{
     background-color: dimgray;
@@ -210,7 +239,8 @@
 }
 
 body {
-    background-image: url("media/Image-Background.jpeg");
+    background-image: url("media/Image-Background.jpg");
+    background-attachment: fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
