@@ -179,7 +179,7 @@
                          "p6        imagep6"
                          "p7        imagep7"
                          "p8        imagep8";
-    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(500px, 1fr));
     grid-template-rows: 0.8fr 2fr 2fr 2fr 2fr 2fr 2fr 2fr 2fr;
 }
 
