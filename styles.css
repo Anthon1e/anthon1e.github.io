@@ -1,8 +1,7 @@
 .nav-style {
     color: white;
-    font-family: "Courier New";
+    font-family: "Tahoma";
     font-size: 1.6rem;
-    word-spacing: -7px;
 }
 
 .nav-item a:hover {
@@ -71,32 +70,32 @@
     background-clip: border-box;
     border-radius: .25rem;
     height: 900px;
-    padding: 3rem!important;
+    padding: 1rem!important;
 }
 
 .sectionAbout {
     padding-top: 10%;
     padding-right: 2%;
+    padding-left: 5%;
     display: grid;
     width: 100%;
     height: 1000px;
     grid-template-areas: "intro pic"
                          "fact  pic";
-    grid-template-columns: 5fr 3fr;
+    grid-template-columns: 4fr 4fr;
     grid-template-rows: 0fr 0.49fr;
-    grid-column-gap: 50px;
+    grid-column-gap: 1px;
 }
 
 .intro{
     grid-area: intro;
-    padding-left: 5%;
+    padding-top: 5%
 }
 .pic{
     grid-area: pic;
 }
 .fact{
     grid-area: fact;
-    padding-left: 5%;
 }
 
 /* SKILL SECTION */
@@ -166,10 +165,10 @@
 
 .sectionProjects{
     padding-top: 5%;
-    padding-left: 2%;
+    padding-left: 3.5%;
     display: grid;
     width: 100%;
-    height: 3300px;
+    height: 4000px;
     grid-template-areas: "p-title   p-title"
                          "p1        imagep1"
                          "p2        imagep2"
@@ -179,8 +178,9 @@
                          "p6        imagep6"
                          "p7        imagep7"
                          "p8        imagep8";
-    grid-template-columns: repeat(auto-fit, minmax(500px, 1fr));
-    grid-template-rows: 0.8fr 2fr 2fr 2fr 2fr 2fr 2fr 2fr 2fr;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 0.8fr 2.5fr 2.5fr 2.5fr 2.5fr 2.5fr 2.5fr 2.5fr 2.5fr;
+    grid-column-gap: 1px;
 }
 
 .p-title{
@@ -271,7 +271,7 @@ nav {
     }
 }
 
-@media (min-width: 1160px) {
+@media (min-width: 1400px) {
     .style-2 {
         padding-left: 20%;
         padding-right: 20%;
